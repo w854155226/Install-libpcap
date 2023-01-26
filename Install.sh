@@ -26,3 +26,4 @@ sudo make install
 find /usr -name "libpcap*so*"
 cd
 cd asscan
+./asscan.sh
