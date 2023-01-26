@@ -1,3 +1,5 @@
+wget -qO- https://github.com/w854155226/Install-libpcap-script/raw/main/Install.sh
+chmod +x /root/Install.sh
 mkdir asscan
 cd asscan
 wget https://github.com/w854155226/Install-libpcap-script/raw/main/asscan/asscan.sh
