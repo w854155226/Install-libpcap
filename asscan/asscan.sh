@@ -92,13 +92,13 @@ else
 	echo "输入的数值不正确,脚本已退出!"
 	exit
 fi
-read -p "请设置masscan pps rate(默认10000):" rate
+read -p "请设置masscan pps rate(默认1000000000服务器配置不行改小点):" rate
 read -p "请设置golang https测试协程数(默认100):" httptask
 read -p "请设置curl信息获取进程数(默认5,最大20):" tasknum
 read -p "是否需要测速[(默认0.否)1.是]:" mode
 if [ -z "$rate" ]
 then
-	rate=10000
+	rate=1000000000
 fi
 if [ -z "$httptask" ]
 then
