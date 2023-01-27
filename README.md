@@ -4,13 +4,7 @@
 
 支持系统 Ubuntu
 
-需要自己给安装脚本权限
-
-给权限代码如下
-
-一键安装脚本
-
-# 安装
+# 一键安装
 
 ```
 wget -N https://github.com/w854155226/Install-libpcap-script/raw/main/Install.sh && bash Install.sh
