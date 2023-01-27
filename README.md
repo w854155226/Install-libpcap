@@ -1,6 +1,6 @@
 # libpcap一键脚本
 # 功能介绍
-- 支持系统 Ubuntu 《我只会Ubuntu》
+- 支持系统 Ubuntu 20.4 《我只会Ubuntu》
 - 推荐使用FinalShell
 
 # 一键安装
@@ -8,6 +8,9 @@
 wget -N https://github.com/w854155226/Install-libpcap-script/raw/main/Install.sh && bash Install.sh
 
 ```
+# FinalShell下载
+
+[FinalShell](https://www.hostbuf.com/t/988.html)
 
 # Google Colab
 
