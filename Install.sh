@@ -10,7 +10,7 @@ cd
 sudo apt-get install libpcap-dev libnids-dev libnet1-dev
 wget https://ftp.gnu.org/gnu/m4/m4-1.4.19.tar.gz
 sudo tar -zxvf m4-1.4.19.tar.gz
-cd m4-1.4.19.tar.gz
+cd m4-1.4.19
 sudo ./configure
 sudo make
 sudo make install
