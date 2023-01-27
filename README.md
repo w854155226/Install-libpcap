@@ -10,7 +10,11 @@
 
 一键安装脚本
 
+# 安装
+
+```
 wget -N https://github.com/w854155226/Install-libpcap-script/raw/main/Install.sh && bash Install.sh
+```
 
 使用Google Colab运行
 
