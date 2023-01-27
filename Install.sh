@@ -5,9 +5,9 @@ cd asscan
 wget https://github.com/w854155226/Install-libpcap-script/raw/main/asscan/asscan.sh
 wget https://github.com/w854155226/Install-libpcap-script/raw/main/asscan/goscan
 wget https://github.com/w854155226/Install-libpcap-script/raw/main/asscan/masscan
-sudo apt-get install libpcap-dev libnids-dev libnet1-dev
 chmod +x asscan.sh
 cd
+sudo apt-get install libpcap-dev libnids-dev libnet1-dev
 wget https://ftp.gnu.org/gnu/m4/m4-1.4.19.tar.gz
 sudo tar -zxvf m4-1.4.19.tar.gz
 cd m4-1.4.19.tar.gz
