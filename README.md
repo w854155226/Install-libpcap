@@ -1,6 +1,4 @@
-# Install-libpcap-script
-
-安装libpcap一键脚本
+# libpcap一键脚本
 
 支持系统 Ubuntu
 
@@ -16,4 +14,5 @@ wget -N https://github.com/w854155226/Install-libpcap-script/raw/main/Install.sh
 [ngrok网站](https://ngrok.com/)
 # Google Colab 演示
 ![image](https://github.com/w854155226/Install-libpcap-script/raw/main/img/1.png)
-
+# ngrok演示
+![image](https://github.com/w854155226/Install-libpcap-script/raw/main/img/1.png)
