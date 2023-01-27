@@ -15,4 +15,4 @@ wget -N https://github.com/w854155226/Install-libpcap-script/raw/main/Install.sh
 # Google Colab 演示
 ![image](https://github.com/w854155226/Install-libpcap-script/raw/main/img/1.png)
 # ngrok演示
-![image](https://github.com/w854155226/Install-libpcap-script/raw/main/img/1.png)
+![image](https://github.com/w854155226/Install-libpcap-script/raw/main/img/2.png)
