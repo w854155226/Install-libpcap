@@ -12,9 +12,9 @@
 
 wget -N https://github.com/w854155226/Install-libpcap-script/raw/main/Install.sh && bash Install.sh
 
-谷歌免费VPS colab-free-vps  
+使用Google Colab运行
 
-[![colab](https://ssl.gstatic.com/colaboratory-static/common/905694bf1f106745fcead1aa158a6006/img/favicon.ico)](https://colab.research.google.com/github/gokulapap/colab-free-vps/blob/main/colab_free_vps.ipynb#scrollTo=uC-OXOiq8koc)
+[Google Colab](https://colab.research.google.com/github/gokulapap/colab-free-vps/blob/main/colab_free_vps.ipynb#scrollTo=uC-OXOiq8koc)
 
 [ngrok网站](https://ngrok.com/)
 
