@@ -14,7 +14,3 @@ wget -N https://github.com/w854155226/Install-libpcap-script/raw/main/Install.sh
 
 谷歌免费VPS colab-free-vps  https://colab.research.google.com/github/gokulapap/colab-free-vps/blob/main/colab_free_vps.ipynb#scrollTo=uC-OXOiq8koc
 
-
-<img alt="html image example" src="["  />
-
-![image]([https://user-images.githubusercontent.com/42252108/215097253-f4f4ba23-3b66-4a5f-9200-54e7a5ccbe7c.png])
